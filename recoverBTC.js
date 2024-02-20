@@ -34,7 +34,7 @@ async function recoverBTC(utxoTxId, utxoVout, privateKeyWIF, destinationAddress,
     }
 }
 
-// Example usage
+// Usage
 const utxoTxId = 'UTXO_TXID';
 const utxoVout = 0; // Output index of the UTXO
 const privateKeyWIF = 'PRIVATE_KEY_WIF';
